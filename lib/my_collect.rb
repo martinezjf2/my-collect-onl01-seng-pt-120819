@@ -7,3 +7,5 @@ def my_collect(array)
   i = i + 2
 end
 end
+new_array
+end
